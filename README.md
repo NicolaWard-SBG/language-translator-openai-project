@@ -4,9 +4,9 @@
 
 ### Features
 
-- Translate text into Spanish, French, or Italian using GPT-3.5-turbo.
-- Responsive UI with React hooks and CSS animations.
-- Built-in loading and error handling states.
+- Translate text into Spanish, French, or Italian using GPT-3.5-turbo
+- Responsive UI with React hooks and CSS animations
+- Built-in loading and error handling states
 
 ### Technology Stack
 
@@ -14,7 +14,7 @@
 - Backend: Express.js server with CORS enabled
 - AI Engine: OpenAI API (gpt-3.5-turbo) via the openai Node.js SDK
 - HTTP Client: fetch for communication between client and server
-- Styling: Modern CSS for layout, responsiveness, and animations
+- Styling: Modern CSS for layout, responsiveness and animations
 
 ### Demo Video
 
